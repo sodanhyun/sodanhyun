@@ -11,7 +11,7 @@
 
 ### Featured Projects
 - **DX Issue Manager**
-  - 
+  - 내용 보완
   - 🔗 https://github.com/Codehows-3rd-Daeho
 
 - **Inufleet**
