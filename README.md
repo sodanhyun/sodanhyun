@@ -1,20 +1,25 @@
-### Hi, I'm Backend Developer 👋
+문제를 구조적으로 분석하고,  
+팀이 함께 이해하고 개선할 수 있는 결과를 만드는 백엔드 개발자입니다.
 
-문제를 구조적으로 정리하고, 끝까지 해결하는 백엔드 개발자입니다.
+- Spring Boot 기반 서버 개발을 중심으로 실전 프로젝트를 경험했습니다.
+- 비동기 처리, 이벤트 기반 아키텍처, 운영 환경에서의 안정성에 관심이 많습니다.
+- 설계 → 개발 → 배포 → 운영 전 과정을 고려하는 개발을 지향합니다.
 
-- Spring Boot 기반 백엔드 개발을 중심으로 학습하고 있습니다.
-- 유지보수성과 협업을 고려한 코드 작성에 관심이 많습니다.
-
-### Tech
+### Tech Focus
 - Backend: Java, Spring Boot, JPA
-- Infra: Docker, Nginx
-- Data & Messaging: MySQL, Redis, Kafka
+- Infra: Docker, Nginx, CI/CD
 
-### Projects
+### Featured Projects
 - **DX Issue Manager**
-  - 이슈 관리 기반 협업 플랫폼
-  - AOP 기반 로깅, Kafka 비동기 처리 구조 설계
-  - 🔗 https://github.com/xxxx
+  - 
+  - 🔗 https://github.com/Codehows-3rd-Daeho
 
-### Contact
-- Email: xxxx@xxxx.com
+- **Inufleet**
+  - AI 멀티 Tool Agent 기반 로봇 운영 모니터링 플랫폼
+  - Spring AI 기반 Agent 설계, SSE 실시간 스트리밍 처리
+  - 🔗 https://github.com/orgs/Codehows-3rd-Taelim
+
+### Links
+- GitHub: https://github.com/sodanhyun
+- Blog: https://velog.io/@sodanhyun
+- Email: sodanhyun@gmail.com
