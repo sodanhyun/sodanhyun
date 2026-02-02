@@ -12,12 +12,12 @@
 ### Featured Projects
 - **DX Issue Manager**
   - 내용 보완
-  - 🔗 https://github.com/Codehows-3rd-Daeho
+  - 🔗 [https://github.com/Codehows-3rd-Daeho](https://github.com/Codehows-3rd-Daeho/daeho-be)
 
 - **Inufleet**
   - AI 멀티 Tool Agent 기반 로봇 운영 모니터링 플랫폼
   - Spring AI 기반 Agent 설계, SSE 실시간 스트리밍 처리
-  - 🔗 https://github.com/orgs/Codehows-3rd-Taelim
+  - 🔗 [https://github.com/orgs/Codehows-3rd-Taelim](https://github.com/Codehows-3rd-Taelim/tealim-be)
 
 ### Links
 - GitHub: https://github.com/sodanhyun
